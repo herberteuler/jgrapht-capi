@@ -28,3 +28,5 @@ build/
 **/.project
 **/.classpath
 **/.settings
+
+cmake-build-debug/
